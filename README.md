@@ -100,6 +100,7 @@ Kochi	~₹17M
 Indore	~₹7.6M
 
 Revenue aligns strongly with trip volume, distance, and fare amount.
+
 📌 Key Business Takeaways
 
 Jaipur is the top-performing city, offering the highest trip count and average fare.
